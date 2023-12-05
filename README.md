@@ -92,4 +92,3 @@
 </p>
 
 <hr/>
-Welcome!
