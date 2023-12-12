@@ -6,9 +6,8 @@
 # h
 ## World
 ## World
-<<<<<<< HEAD
 ## hhhhh
 ##  k k k k k  k k k k k k k k k 
-
-=======
->>>>>>> team2
+# Personal 
+- Moe
+- Raf
