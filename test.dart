@@ -3,6 +3,15 @@ void main() {
   print(divide(8, 0));
   print(multiple(5, 5));
   check(5);
+  print("Yesyyyyyysys");
+  print("Yesyyyyyysys");
+  print("Yesyyyyyysys");
+  print("Yesyyyyyysys");
+  print("Yesyyyyyysys");
+  print("Yesyyyyyysys");
+  print("Yesyyyyyysys");
+  print("Yesyyyyyysys");
+  print("Yesyyyyyysys");
 }
 
 double divide(int a, int b) {
@@ -33,7 +42,8 @@ void check(int a) {
   if (a % 2 == 0) {
     print("$a is even");
   } else
-    print("$a is odd");
+    print("Yesyyyyyysys");
+  print("$a is odd");
 }
 /*
 void main() {
