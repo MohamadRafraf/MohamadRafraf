@@ -12,7 +12,7 @@ double divide(int a, int b) {
       throw FormatException("error you can not to divide on 0");
     }
   } catch (e) {
-    print(e)
+    print(e);
   }
   return a / b;
 }
